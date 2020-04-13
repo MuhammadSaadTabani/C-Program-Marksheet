@@ -7,3 +7,5 @@ Take marks as input from user.
 * Calculate grade for each subject.
 * Calculate CGPA for each subject. 
 * Calculate percentage for each subject
+
+Coded By : Muhammad Saad
