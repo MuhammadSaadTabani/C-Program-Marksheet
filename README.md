@@ -8,4 +8,4 @@ Take marks as input from user.
 * Calculate CGPA for each subject. 
 * Calculate percentage for each subject
 
-Coded By : Muhammad Saad
+Coded By : Muhammad Saad Tabani
